@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"outDir": "./dist/esm",
+		"rootDir": "./src",
+		"module": "ES6",
+		"moduleResolution": "Node",
+		"allowSyntheticDefaultImports": true
+	},
+	"include": ["./src"]
+}
